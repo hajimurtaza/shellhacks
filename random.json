@@ -1,0 +1,158 @@
+
+  { address_components: [
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ]
+    ],
+    formatted_address: '1050 S.W. 112 AVE., Miami, FL 33199, USA',
+    geometry: { bounds: [Object
+      ],
+       location: [Object
+      ],
+       location_type: 'ROOFTOP',
+       viewport: [Object
+      ]
+    },
+    place_id: 'ChIJbyGLUyW_2YgR1yQnE7YZEnY',
+    types: [ 'premise'
+    ]
+  },
+  { address_components: [
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ]
+    ],
+    formatted_address: 'Unnamed Road, Miami, FL 33174, USA',
+    geometry: { bounds: [Object
+      ],
+       location: [Object
+      ],
+       location_type: 'GEOMETRIC_CENTER',
+       viewport: [Object
+      ]
+    },
+    place_id: 'ChIJM37NATC_2YgRcGWlRhagFj4',
+    types: [ 'route'
+    ]
+  },
+  { address_components: [
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ]
+    ],
+    formatted_address: 'Miami, FL 33174, USA',
+    geometry: { bounds: [Object
+      ],
+       location: [Object
+      ],
+       location_type: 'APPROXIMATE',
+       viewport: [Object
+      ]
+    },
+    place_id: 'ChIJIxptN9G42YgRR5CSK7EOmHY',
+    types: [ 'postal_code'
+    ]
+  },
+  { address_components: [
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ]
+    ],
+    formatted_address: 'University Park, FL, USA',
+    geometry: { bounds: [Object
+      ],
+       location: [Object
+      ],
+       location_type: 'APPROXIMATE',
+       viewport: [Object
+      ]
+    },
+    place_id: 'ChIJWQLgCjW_2YgRg-o_naDqmko',
+    types: [ 'locality', 'political'
+    ]
+  },
+  { address_components: [
+      [Object
+      ],
+      [Object
+      ],
+      [Object
+      ]
+    ],
+    formatted_address: 'Miami-Dade County, FL, USA',
+    geometry: { bounds: [Object
+      ],
+       location: [Object
+      ],
+       location_type: 'APPROXIMATE',
+       viewport: [Object
+      ]
+    },
+    place_id: 'ChIJORjpTQWL2YgRi2OVgXQeaUk',
+    types: [ 'administrative_area_level_2', 'political'
+    ]
+  },
+  { address_components: [
+      [Object
+      ],
+      [Object
+      ]
+    ],
+    formatted_address: 'Florida, USA',
+    geometry: { bounds: [Object
+      ],
+       location: [Object
+      ],
+       location_type: 'APPROXIMATE',
+       viewport: [Object
+      ]
+    },
+    place_id: 'ChIJvypWkWV2wYgR0E7HW9MTLvc',
+    types: [ 'administrative_area_level_1', 'political'
+    ]
+  },
+  { address_components: [
+      [Object
+      ]
+    ],
+    formatted_address: 'United States',
+    geometry: { bounds: [Object
+      ],
+       location: [Object
+      ],
+       location_type: 'APPROXIMATE',
+       viewport: [Object
+      ]
+    },
+    place_id: 'ChIJCzYy5IS16lQRQrfeQ5K5Oxw',
+    types: [ 'country', 'political'
+    ]
+  }
